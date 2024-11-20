@@ -7,23 +7,6 @@ Program sederhana untuk mengelola data nilai mahasiswa menggunakan Python dengan
 
 ![](FlowChart_lenn.drawio.png)`
 
-# Demo Program
-
-**Fitur Tambah**
-
-![](gif/tambah.gif)
-
-**Fitur Lihat**
-
-![](gif/lihat.gif)
-
-**Fitur Ubah**
-
-![](gif/Ubah.gif)
-
-
-Untuk Fitur lainnya bisa dicoba sendiri
-
 
 ## Deskripsi Program
 
