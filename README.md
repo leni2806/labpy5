@@ -1,3 +1,6 @@
+# Nama : Leni
+# Kelas : TI.24.A5
+
 # Program Input Nilai Mahasiswa
 
 Program sederhana untuk mengelola data nilai mahasiswa menggunakan Python dengan struktur data Dictionary.
@@ -6,6 +9,19 @@ Program sederhana untuk mengelola data nilai mahasiswa menggunakan Python dengan
 # Flowchart
 
 ![](FlowChart_lenn.drawio.png)`
+
+# Demo Program
+
+**Fitur Tambah**
+
+![](Tambah_leni.png)
+
+**Fitur Lihat**
+
+![](Lihat_leni.png)
+
+
+Untuk Fitur lainnya bisa dicoba sendiri
 
 
 ## Deskripsi Program
